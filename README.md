@@ -66,7 +66,7 @@ require(path.resolve(__dirname, 'myWorker.ts'));
 ```
 
 <div align="center">
-<img src="./img/proxy_needed.png" alt="Usage of Proxy needed" style="max-height: 500px;">
+<img src="./img/proxy_needed.png" alt="Usage of Proxy needed" style="max-height: 400px;">
 </div>
 
 ### Worker Thread Side
@@ -118,4 +118,4 @@ Finally, 'error' allow you to know if error has been catched and the nature of i
 ## Next Chapter
 
 Multithreading 02 - Basic Thread Communication  
-https://github.com/Tom9001/nodejs-multithreading-02
+https://github.com/thomaspiquet/nodejs-multithreading-02
